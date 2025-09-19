@@ -18,6 +18,10 @@
   "icon": "bicycle",
   "pages": [
     {
+      "id": "Calendar Mobile",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
